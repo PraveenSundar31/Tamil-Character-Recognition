@@ -1,2 +1,0 @@
-# Tamil-Character-Recognition
-
